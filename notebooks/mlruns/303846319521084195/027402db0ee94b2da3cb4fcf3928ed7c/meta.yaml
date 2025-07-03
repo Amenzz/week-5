@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Amenzz/Desktop/week-5/notebooks/mlruns/303846319521084195/027402db0ee94b2da3cb4fcf3928ed7c/artifacts
+end_time: 1751563722798
+entry_point_name: ''
+experiment_id: '303846319521084195'
+lifecycle_stage: active
+run_id: 027402db0ee94b2da3cb4fcf3928ed7c
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751563722127
+status: 4
+tags: []
+user_id: Amenzz
